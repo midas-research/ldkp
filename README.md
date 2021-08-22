@@ -1,2 +1,2 @@
 # ldkp
-Longo Document Keyphrase Identification Dataset
+Long Document Keyphrase Identification Dataset
