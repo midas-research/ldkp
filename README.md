@@ -9,7 +9,7 @@ LDKP is Long Documents Keyphrase dataset developed by
 
 <p  align="center">
 
-<img  src="https://github.com/midas-research/ldkp/blob/master/MIDAS-logo.jpg"  alt="MIDAS lab at IIIT-Delhi"  width="60%"/>
+<img  src="https://github.com/midas-research/ldkp/blob/main/MIDAS-logo.jpg"  alt="MIDAS lab at IIIT-Delhi"  width="60%"/>
 
 <br>
 
