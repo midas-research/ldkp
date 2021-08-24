@@ -43,9 +43,10 @@ To be added
 ## Steps to download the dataset
 
  1. Clone the repository onto your system where you want to download the dataset.
- 2. Move the files helper.py, ldkp3k.py and ldkp10k.py to a place where you want to download the dataset.
- 3. Using ldkp3k.py you can download the LDkp3k dataset either in base format or in CoNLL format
- 4. Using the ldkp10k.py you can download the LDkp10k dataset either in base format or in CoNLL format.
+ 2. Run pip install -r requirements.txt
+ 3. Move the files helper.py, ldkp3k.py and ldkp10k.py to a place where you want to download the dataset.
+ 4. Using ldkp3k.py you can download the LDkp3k dataset either in base format or in CoNLL format
+ 5. Using the ldkp10k.py you can download the LDkp10k dataset either in base format or in CoNLL format.
 
 ## Terms of Use
 
