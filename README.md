@@ -1,7 +1,7 @@
 
-# LDKP
+# LDkp
 
-LDKP is Long Documents Keyphrase dataset developed by
+LDkp is Long Documents Keyphrase dataset developed by
 
   
 
@@ -17,15 +17,35 @@ LDKP is Long Documents Keyphrase dataset developed by
 
 <br>
 
-## Dataset deatils
-To be added
+LDkp (Long Document keyphrase) dataset is the first benchmark corpus of 1.3M documents for identifying  keyphrases  from  long  documents. The LDkp dataset is released in two versions :
+
+ - **LDkp3k**: consists of 0.1M keyphrase tagged long documents, is created using keyphrases from KP20k [(Meng et al., 2017)](https://aclanthology.org/P17-1054/) and their corresponding long document text from S2ORC [(Lo et al., 2020)](https://aclanthology.org/2020.acl-main.447/).
+ - **LDkp10k**: The second dataset LDkp10k consisting of 1.3M long documents along with target keyphrases is created using keyphrases from
+OAGKX [(Çano, 2019)](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3062) and their corresponding long document text from S2ORC [(Lo et al., 2020)](https://aclanthology.org/2020.acl-main.447/).
+
+Since both datasets consist of a large number of examples, we present three versions of training split for both of the datasets with sizes, as shown below:
+
+<br>
+
+<p  align="center">
+
+<img  src="https://github.com/midas-research/ldkp/blob/main/Dataset_distribution.png"  alt="Dataset Distribution"  width="60%"/>
+
+<br>
+
+</p>
+
+<br>
+
+
 ## Dataset format
+To be added
 ## Steps to download the dataset
 
  1. Clone the repository onto your system where you want to download the dataset.
  2. Move the files helper.py, ldkp3k.py and ldkp10k.py to a place where you want to download the dataset.
- 3. Using ldkp3k.py you can download the LDKP3K dataset either in base format or in CoNLL format
- 4. Using the ldkp10k.py you can download the LDKP10K dataset either in base format or in CoNLL format.
+ 3. Using ldkp3k.py you can download the LDkp3k dataset either in base format or in CoNLL format
+ 4. Using the ldkp10k.py you can download the LDkp10k dataset either in base format or in CoNLL format.
 
 ## Terms of Use
 
