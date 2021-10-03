@@ -38,8 +38,6 @@ Since both datasets consist of a large number of examples, we present three vers
 <br>
 
 
-## Dataset format
-To be added
 ## You can download the dataset from this [link](https://zenodo.org/record/5501744)
 
 ## Terms of Use
