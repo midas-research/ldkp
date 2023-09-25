@@ -58,4 +58,14 @@ Please feel free to send us an email:
 Copyright (C) 2019 Multimodal Digital Media Analysis Lab - Indraprastha Institute of Information Technology, New Delhi (MIDAS, IIIT-Delhi)
 
 ## References
- To be added
+ Please cite the following paper if you use this dataset:
+ ```
+@misc{mahata2022ldkp,
+      title={LDKP: A Dataset for Identifying Keyphrases from Long Scientific Documents}, 
+      author={Debanjan Mahata and Navneet Agarwal and Dibya Gautam and Amardeep Kumar and Swapnil Parekh and Yaman Kumar Singla and Anish Acharya and Rajiv Ratn Shah},
+      year={2022},
+      eprint={2203.15349},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+``` 
